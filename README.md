@@ -1,2 +1,2 @@
 # Command_Prompt
-comman lines 
+command lines 
